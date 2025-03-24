@@ -16,15 +16,15 @@
   </a>
 </p>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<h3> 🔥 Streak Stats</h3>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danixiloqq&theme=transparent" alt="GitHub Streak" /></a>
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<h3>💻 GitHub Profile Stats</h3>
 
 ----
 	
