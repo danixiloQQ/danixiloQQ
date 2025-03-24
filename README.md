@@ -18,15 +18,15 @@
 
 <h3> 🔥 Streak Stats</h3>
 
-----	
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danixiloqq&theme=transparent" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danixiloqq&theme=transparent" alt="GitHub Streak" /></a></p>
 
 </details>
   
 <h3>💻 GitHub Profile Stats</h3>
 
-----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
